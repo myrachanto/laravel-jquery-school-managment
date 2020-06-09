@@ -1,0 +1,14 @@
+[27-Nov-2017 05:05:14 UTC] PHP Fatal error:  Class 'Input' not found in /home/chantosw/public_html/school/app/Http/Controllers/BlogController.php on line 114
+[27-Nov-2017 05:06:05 UTC] PHP Fatal error:  Class 'Input' not found in /home/chantosw/public_html/school/app/Http/Controllers/BlogController.php on line 114
+[27-Nov-2017 05:09:18 UTC] PHP Fatal error:  Cannot access private property App\Blog::$rules in /home/chantosw/public_html/school/app/Http/Controllers/BlogController.php on line 42
+[27-Nov-2017 08:01:23 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[27-Nov-2017 15:37:41 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[27-Nov-2017 15:37:55 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[28-Nov-2017 09:18:17 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2017 09:18:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[28-Nov-2017 09:21:39 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[28-Nov-2017 09:21:56 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[29-Nov-2017 11:05:18 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[05-Dec-2017 11:36:32 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[05-Dec-2017 11:36:34 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
+[05-Dec-2017 11:36:48 UTC] PHP Fatal error:  Class 'App\yos' not found in /home/chantosw/public_html/school/app/Http/Controllers/FinanceController.php on line 25
